@@ -145,7 +145,7 @@ Studio, REST API, RxJava
 - Consistently leveraged **Android SDK, Java, and Material Design principles** to deliver an intuitive and engaging user experience on Android devices
 - Integrated modern UI/UX patterns with Flutter widgets, ensuring high performance and responsiveness across multiple platforms
 
-Skills: Android SDK, Java, Android Studio, Material design, Flutter, Dart
+**Skills:** Android SDK, Java, Android Studio, Material design, Flutter, Dart
 
 **EDUCATION**
 
@@ -153,9 +153,9 @@ Skills: Android SDK, Java, Android Studio, Material design, Flutter, Dart
 
 Computer Enginering 2015 - 2019
 
-**VOLUNTARY ACTIVITIES**
+**SUMMARY / ABOUT ME**
 
-List of my skills that I will use to bring your project to perfection: Java / Kotlin; Android SDK; Android Jetpack Compose (Room, Navigation, WorkManager, Lifecycle); Databases: SQL / Room Persistence, Realm; Google API's (Maps, Drive, Tasks, Places); Firebase Cloud Messaging(Android / Java Server), Database, Remote Config; Google Cloud Storage / Database; Material Design; REST/JSON/XML; Retrofit 2, RxJava, Dagger 2; MVVM, MVP; Git; Gradle
+List of my skills that I will use to bring your project to perfection: Java / Kotlin, Android SDK, Android Jetpack Compose (Room, Navigation, WorkManager, Lifecycle, Ktor, MVI, Decompose, MultiModule), SQL / Room Persistence, Realm, Google API's (Maps, Drive, Tasks, Places) Firebase Cloud Messaging (Android / Java Server), Database, Remote Config, Google Cloud Storage / Database, Material Design, REST/JSON/XML, Retrofit 2, RxJava, Dagger 2, MVVM, MVP, Git, Gradle
 
 Also, I can help you create technical and business requirements for your Android application if you don't fully understand which features you want.
 
