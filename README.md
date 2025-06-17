@@ -22,7 +22,7 @@ Building pixel-perfect apps for 1 billion people. Areas: delivery, finance, logi
 - **Contributed to the development of a high-security Banking System Application**, implementing features such as secure user authentication, transaction processing, and real-time data synchronization
 - **Led the development efforts for a Banking Marketplace Application**, enhancing user engagement through personalized product listings, integrated financial services, and seamless UI/UX improvements
 
-### **Key Projects at SmartBank**
+ **Key Projects at SmartBank**
 
 **1\. SmartBank Mobile Application (Android Phone / Tablet)**
 
@@ -83,7 +83,7 @@ Building pixel-perfect apps for 1 billion people. Areas: delivery, finance, logi
 - **Architected and developed Android applications** tailored to meet specific client and business requirements, ensuring quality, performance, and maintainability
 - **Prepared and delivered professional presentations and product pitches** for startup initiatives, effectively communicating technical solutions and business value propositions to investors and entrepreneurs
 
-### **Key Projects**: AR and Cross-Platform Development Experience
+ **Key Projects**: AR and Cross-Platform Development Experience
 
 - **Developed an Augmented Reality (AR) based application** designed for restaurants, enhancing customer interaction by allowing users to view 3D food models and menu items directly via their mobile devices
 - **Built a cross-platform mobile application using Flutter** for both Android and iOS platforms as part of the Napa team project, delivering a consistent and responsive user experience across devices
@@ -136,7 +136,7 @@ Studio, REST API, RxJava
 
 **Skills:** Android SDK, Java, Android Studio, Material design
 
-### **Personal Projects**
+ **Personal Projects**
 
 **1\. MarketPlace Application**
 
