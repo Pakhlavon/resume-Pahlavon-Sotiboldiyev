@@ -2,7 +2,7 @@
 
 **Pakhlavon Sotiboldiev**
 
-**Android Developer at SmartBank**
+**Senior Android Developer at OpenBank**
 
 [GitHub](https://github.com/Pakhlavon) | [LinkedIn](https://www.linkedin.com/in/pahlavon-sotiboldiyev/) | [Email](mailto:Pahlavon9596@gmail.com)
 
@@ -10,7 +10,7 @@ Building pixel-perfect apps for 1 billion people. Areas: delivery, finance, logi
 
 **EXPERIENCE**
 
-**Android developer at SmartBank ( AgroBank )**
+**Senior Android developer at OpenBank**
 
 **June 2023 – Present**
 
@@ -22,16 +22,16 @@ Building pixel-perfect apps for 1 billion people. Areas: delivery, finance, logi
 - **Contributed to the development of a high-security Banking System Application**, implementing features such as secure user authentication, transaction processing, and real-time data synchronization
 - **Led the development efforts for a Banking Marketplace Application**, enhancing user engagement through personalized product listings, integrated financial services, and seamless UI/UX improvements
 
- **Key Projects at SmartBank**
+ **Key Projects at OpenBank**
 
-**1\. SmartBank Mobile Application (Android Phone / Tablet)**
+**1\. OpenBank Mobile Application (Android Phone / Tablet)**
 
 - Developed and maintained core banking features such as account management, transaction history, and secure payments
 - Ensured seamless user experience across both phone and tablet devices through responsive UI design using Jetpack Compose
 - Integrated third-party services including payment gateways and biometric authentication for enhanced security
 - Optimized app performance and reduced load times by implementing efficient data handling via Kotlin Coroutines and Flow
 
-**2\. SmartBank Marketplace Application (Android Phone / Tablet)**
+**2\. OpenBank Marketplace Application (Android Phone / Tablet)**
 
 - Architected and implemented a marketplace platform within the SmartBank ecosystem, allowing users to explore and purchase financial products and services
 - Collaborated with cross-functional teams to deliver features such as personalized recommendations and promotional offers
@@ -39,6 +39,31 @@ Building pixel-perfect apps for 1 billion people. Areas: delivery, finance, logi
 - Provided regular updates and maintenance ensuring app stability and compliance with banking regulations
 
 **Skills:** Android SDK, Kotlin, Jetpack Compose, MVI, Decompose, Multi module, Algorithms, Data Structures, Git, Architectural Design, Debugging, Animation, Kotlin Coroutines, Koin
+
+
+**KOTLIN MULTIPLATFORM (KMM) PROJECTS — ANDROID & iOS**
+
+Designed and shipped cross-platform mobile applications with **Kotlin Multiplatform**, sharing business logic, networking and data layers between Android and iOS. All three apps are published on **Google Play** and the **Apple App Store**.
+
+**1\. Blacar (Android / iOS)**
+
+- Built and released the app on both Google Play and the App Store from a single Kotlin Multiplatform codebase
+- Implemented shared business logic, networking (Ktor) and local storage in the common module, with native UI layers for each platform
+- Handled the full release cycle: signing, store listings, review compliance and post-release updates
+
+**2\. Hasharchi (Android / iOS)**
+
+- Developed the application with Kotlin Multiplatform and published it on Google Play and the App Store
+- Structured the project with Clean Architecture and a multi-module setup to keep shared and platform-specific code clearly separated
+- Integrated REST APIs, push notifications and authentication flows shared across both platforms
+
+**3\. Vakeel (Android / iOS)**
+
+- Delivered a cross-platform application on Android and iOS from a shared Kotlin Multiplatform codebase
+- Implemented shared ViewModels/state management, data repositories and dependency injection (Koin) for both platforms
+- Ensured consistent UX and performance on both platforms and maintained the apps after launch
+
+**Skills:** Kotlin Multiplatform (KMM), Compose Multiplatform, Ktor, Kotlin Coroutines & Flow, Koin, SQLDelight, Decompose, MVI, Clean Architecture, Multi module, Android SDK, iOS (Xcode) integration, Google Play & App Store publishing
 
 **Android Developer at Chowis (Korea Republic), remote**
 
